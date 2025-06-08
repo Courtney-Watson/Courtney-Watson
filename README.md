@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Courtney-Watson
 - Comptia Security+ Certified
-- 🌱 I’m passionate about continuos learning.
+- 🌱 I’m passionate about continuous learning.
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: I will graduate soon with a Bachelors in Cybersecurity Operations
 
