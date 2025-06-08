@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Courtney-Watson
-- I’m interested in Cybersecurity
-- 🌱 I’m currently learning server management
+- Comptia Security+ Certified
+- 🌱 I’m passionate about continuos learning.
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: I will graduate soon with a Bachelors in Cybersecurity Operations
 
