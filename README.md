@@ -2,7 +2,7 @@
 - Comptia Security+ Certified
 - 🌱 I’m passionate about continuous learning.
 - 😄 Pronouns: she/her
-- ⚡ Fun fact: I will graduate soon with a Bachelors in Cybersecurity Operations
+- ⚡ Fun fact: I'm learning Spanish!
 
 <!---
 Courtney-Watson/Courtney-Watson is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
